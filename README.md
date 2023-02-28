@@ -5,9 +5,11 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | :---: | :---: | :---: | :---: | :---: |
 | Hackeando Tudo | Raiam Santos | 176 | 01/01/2022 | 31/01/2022 |
 | Marx Uma introdução | Jorge Grespan | 104 | 01/02/2022 | 28/02/2022 |
-| God Of War I | Matthew Stover | 2012 | 01/03/2022 | 31/03/2022 |
+| God Of War I | Matthew Stover | 384 | 01/03/2022 | 31/03/2022 |
 | God Of War II | Robert E. Vardeman | 384 | 01/04/2022 | 30/04/2022 |
 | Essencialismo: A disciplinada busca por menos | Greg McKeown | 272 | 01/05/2022 | 31/05/2022 |
 | Mindset: A Nova Psicologia do Sucesso | Carol S. Dweck | 310 | 01/06/2022 | 30/06/2022 |
 | A Sutil Arte de Ligar o Foda-se | Mark Manson | 224 | 01/07/2022 | 31/07/2022 |
 | O Poder do Hábito: Por que fazemos o que fazemos na vida e nos negócios | Charles Duhigg | 407 | 01/08/2022 | 31/08/2022 |
+| Do Mil ao Milhão. Sem Cortar o Cafezinho: Gastar bem, investir melhor, ganhar mais | Thiago Nigro | 192 | 01/09/2022 | 30/09/2022 |
+| A técnica Pomodoro: O sistema do gerenciamento de tempo que transformou o modo como trabalhamos | Francesco Cirillo | 144 | 01/10/2022 | 31/10/2022 |
