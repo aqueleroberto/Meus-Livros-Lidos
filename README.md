@@ -4,4 +4,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 |Título|Autor|Páginas|Início de Leitura|Fim de Leitura|
 |---------------------------------------------|------------|--------------|----------|
 |Hackeando Tudo                               |Raiam Santos|176|01/01/2022|30/01/2022|
-|Essencialismo: A disciplinada busca por menos|Greg McKeown|272|01/02/2022|28/02/2022|
+|Essencialismo - A disciplinada busca por menos|Greg McKeown|272|01/02/2022|28/02/2022|
