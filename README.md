@@ -9,3 +9,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | God Of War II | Robert E. Vardeman | 2013 | 384 | 01/04/2022 | 30/04/2022 |
 | Essencialismo: A disciplinada busca por menos | Greg McKeown | 2015 | 272 | 01/05/2022 | 31/05/2022 |
 | Mindset: A Nova Psicologia do Sucesso | Carol S. Dweck | 2016 | 310 | 01/06/2022 | 30/06/2022 |
+| A Sutil Arte de Ligar o Foda-se | Mark Manson | 2017 | 224 | 01/07/2022 | 31/07/2022 |
