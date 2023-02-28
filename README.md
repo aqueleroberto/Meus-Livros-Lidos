@@ -4,3 +4,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Título | Autor | Ano | Páginas | Data de início | Data de início |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Hackeando Tudo | Raiam Santos | 2016 | 176 | 01/01/2022 | 30/01/2022 |
+| Marx Uma introdução | Jorge Grespan | 2021 | 104 | 01/02/2022 | 28/02/2022 |
