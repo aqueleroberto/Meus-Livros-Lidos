@@ -10,3 +10,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Essencialismo: A disciplinada busca por menos | Greg McKeown | 272 | 01/05/2022 | 31/05/2022 |
 | Mindset: A Nova Psicologia do Sucesso | Carol S. Dweck | 310 | 01/06/2022 | 30/06/2022 |
 | A Sutil Arte de Ligar o Foda-se | Mark Manson | 224 | 01/07/2022 | 31/07/2022 |
+| O Poder do Hábito: Por que fazemos o que fazemos na vida e nos negócios | Charles Duhigg | 407 | 01/08/2022 | 31/08/2022 |
