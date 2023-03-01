@@ -20,3 +20,6 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Models: Attract Women Through Honesty | Mark Manson | 296 | 01/01/2022 | 10/01/2023 |
 | Os Quatro Compromissos: O livro da filosofia Tolteca | Don Miguel Ruiz | 110 | 11/01/2022 | 20/01/2022 |
 | O Alquimista | Paulo Coelho | 176 | 21/01/2022 | 31/01/2022 |
+| As regras de ouro dos casais saudáveis | Augusto Cury | 192 | 01/02/2023 | 10/02/2023 |
+| O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
+| Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 |
