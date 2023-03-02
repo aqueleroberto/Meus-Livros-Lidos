@@ -29,3 +29,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Título | Autor | Páginas | Download |
 | :---: | :---: | :---: | :---: |
 | Arnold Schwarzenegger: A Inacreditável História da Minha Vida| Arnold Schwarzenegger | 518 | [Download](https://drive.google.com/file/d/1kRhge1knj5cnpHWWgVBrvoPX2l3DuZ15/view?usp=share_link) |
+| Pai Rico Pai Pobre: Os que os ricos ensinam a seus filhos sobre sobre dinheiro | Robert T. Kiyosaki | 332 | [Download](https://drive.google.com/file/d/1VT_fJLKa_e_s-2K7lGrjdlnzsqT-_zUR/view?usp=share_link) |
