@@ -24,3 +24,8 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
 | Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 | 28/02/2023 |
 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | ... |
+
+## Lista de Livros que Quero Ler
+| Título | Autor | Páginas | Amazon | Download |
+| :---: | :---: | :---: | :---: | :---: |
+| [Arnold Schwarzenegger: A Inacreditável História da Minha Vida](https://www.amazon.com.br/Arnold-Schwarzenegger/dp/8575428659/ref=sr_1_6?qid=1677781942&refinements=p_27%3AArnold+Schwarzenegger&s=books&sr=1-6) | Arnold Schwarzenegger | 518 | 
