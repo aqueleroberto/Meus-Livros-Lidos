@@ -26,6 +26,6 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | ... |
 
 ## Lista de Livros que Quero Ler
-| Título | Autor | Páginas | Amazon | Download |
+| Título | Autor | Páginas | Download |
 | :---: | :---: | :---: | :---: | :---: |
-| [Arnold Schwarzenegger: A Inacreditável História da Minha Vida](https://www.amazon.com.br/Arnold-Schwarzenegger/dp/8575428659/ref=sr_1_6?qid=1677781942&refinements=p_27%3AArnold+Schwarzenegger&s=books&sr=1-6) | [Arnold Schwarzenegger](https://www.google.com/search?q=Arnold+schwarzenegger&oq=Arnold+schwarzenegger&aqs=chrome..69i57j69i59j46i433i512j0i433i512l2j0i512j69i60l2.7039j1j7&sourceid=chrome&ie=UTF-8) | 518 | 
+| Arnold Schwarzenegger: A Inacreditável História da Minha Vida| Arnold Schwarzenegger | 518 | [Download](https://drive.google.com/file/d/1kRhge1knj5cnpHWWgVBrvoPX2l3DuZ15/view?usp=share_link)
