@@ -30,5 +30,6 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | :---: | :---: | :---: | :---: |
 | Arnold Schwarzenegger: A Inacreditável História da Minha Vida| Arnold Schwarzenegger | 518 | [Download](https://drive.google.com/file/d/1kRhge1knj5cnpHWWgVBrvoPX2l3DuZ15/view?usp=share_link) |
 | Pai Rico Pai Pobre: Os que os ricos ensinam a seus filhos sobre sobre dinheiro | Robert T. Kiyosaki | 332 | [Download](https://drive.google.com/file/d/1VT_fJLKa_e_s-2K7lGrjdlnzsqT-_zUR/view?usp=share_link) |
-| O homem mais rico da Babilônia | George S. Clason | 176 | [Download](https://drive.google.com/file/d/1GfJGnfkC81x0GDP4EMrBKS8AebSrYmZw/view?usp=share_link)
-| Os Segredos Da Mente Milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas | T. Harv Eker | 176 | [Download](https://drive.google.com/file/d/1g7XKrsgc72cen6du7ynmf_WVkDqwpfU6/view?usp=share_link)
+| O homem mais rico da Babilônia | George S. Clason | 176 | [Download](https://drive.google.com/file/d/1GfJGnfkC81x0GDP4EMrBKS8AebSrYmZw/view?usp=share_link) |
+| Os Segredos Da Mente Milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas | T. Harv Eker | 176 | [Download](https://drive.google.com/file/d/1g7XKrsgc72cen6du7ynmf_WVkDqwpfU6/view?usp=share_link) |
+| Mais Esperto Que O Diabo: O Mistério Revelado Da Liberdade E Do Sucesso | Napoleon Hill | 208 | [Download](https://drive.google.com/file/d/199PqOf6e6iZ8ycgX9BY9MaelqRgzMefR/view?usp=share_link) |
