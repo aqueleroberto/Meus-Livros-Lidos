@@ -29,4 +29,3 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Título | Autor | Páginas | Amazon | Download |
 | :---: | :---: | :---: | :---: | :---: |
 | [Arnold Schwarzenegger: A Inacreditável História da Minha Vida](https://www.amazon.com.br/Arnold-Schwarzenegger/dp/8575428659/ref=sr_1_6?qid=1677781942&refinements=p_27%3AArnold+Schwarzenegger&s=books&sr=1-6) | Arnold Schwarzenegger | 518 | 
-| <a href="http://example.com/" target="_blank">example</a> |
