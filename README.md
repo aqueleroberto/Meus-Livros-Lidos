@@ -27,5 +27,5 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 
 ## Lista de Livros que Quero Ler
 | Título | Autor | Páginas | Download |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | Arnold Schwarzenegger: A Inacreditável História da Minha Vida| Arnold Schwarzenegger | 518 | [Download](https://drive.google.com/file/d/1kRhge1knj5cnpHWWgVBrvoPX2l3DuZ15/view?usp=share_link) |
