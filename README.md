@@ -1,7 +1,7 @@
 # Meus Livros Lidos
 Este repositório é um registro dos livros que li ao longo do tempo. Inclui informações básicas sobre cada livro, como título, autor e data de leitura. Também inclui algumas reflexões pessoais sobre a leitura e minha experiência com cada livro.
 ## Lista de Livros Lidos em 2022
-| Título | Autor | Páginas | Data de início | Data de início |
+| Título | Autor | Páginas | Data de início | Data de fim |
 | :---: | :---: | :---: | :---: | :---: |
 | Hackeando Tudo | Raiam Santos | 176 | 01/01/2022 | 31/01/2022 |
 | Marx Uma introdução | Jorge Grespan | 104 | 01/02/2022 | 28/02/2022 |
@@ -15,7 +15,7 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | A técnica Pomodoro: O sistema do gerenciamento de tempo que transformou o modo como trabalhamos | Francesco Cirillo | 144 | 01/10/2022 | 31/10/2022 |
 
 ## Lista de Livros Lidos em 2023
-| Título | Autor | Páginas | Data de início | Data de início |
+| Título | Autor | Páginas | Data de início | Data de fim |
 | :---: | :---: | :---: | :---: | :---: |
 | Models: Attract Women Through Honesty | Mark Manson | 296 | 01/01/2023 | 10/01/2023 |
 | Os Quatro Compromissos: O livro da filosofia Tolteca | Don Miguel Ruiz | 110 | 11/01/2023 | 20/01/2023 |
