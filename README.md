@@ -38,4 +38,6 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Pra você que teve um dia ruim | Victor Fernandes | 192 | [Download](https://drive.google.com/file/d/1xW06be6iHwXJSGP43FFh4cB9iRPSx-ng/view?usp=share_link) |
 | O Milagre da Manhã | Hal Elrod | 196 | [Download](https://drive.google.com/file/d/1MzKuDr8eFTr2w4M1DmCVGBFV9atvIVyH/view?usp=share_link) |
 | Hábitos Atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus | James Clear | 320 | [Download](https://drive.google.com/file/d/12PIiHrB8IobQD3IYkxXTNyf_2PInWu97/view?usp=share_link) |
-| |
+| As 48 leis do poder | Robert Greene | 554 | [Download](https://drive.google.com/file/d/1My9MmIX4usw9cz5DMcDJuCJQRbQL-4cW/view?usp=share_link) |
+| Uma Segunda Chance: Reminders of Him | Colleen Hoover | 368 | [Downlad](https://drive.google.com/file/d/1xksei7gsnJJFUyyLmjgVuwPrhKcSZi1S/view?usp=share_link) |
+| Tudo o que eu sei sobre o amor | Dolly Alderton | 384 | [Download](https://drive.google.com/file/d/1QWaPgAAv0rw9u05sWRP852mOtkhfiWbS/view?usp=share_link) |
