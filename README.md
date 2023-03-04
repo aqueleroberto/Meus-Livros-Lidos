@@ -33,8 +33,8 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | O homem mais rico da Babilônia | George S. Clason | 176 | [Download](https://drive.google.com/file/d/1GfJGnfkC81x0GDP4EMrBKS8AebSrYmZw/view?usp=share_link) |
 | Os Segredos Da Mente Milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas | T. Harv Eker | 176 | [Download](https://drive.google.com/file/d/1g7XKrsgc72cen6du7ynmf_WVkDqwpfU6/view?usp=share_link) |
 | Mais Esperto Que O Diabo: O Mistério Revelado Da Liberdade E Do Sucesso | Napoleon Hill | 208 | [Download](https://drive.google.com/file/d/199PqOf6e6iZ8ycgX9BY9MaelqRgzMefR/view?usp=share_link) |
-| Pare de se Sabotar e Dê a Volta Por Cima:Como se livrar dos comportamentos que atrapalham sua vida | Flip Flippen | 224 | https://drive.google.com/file/d/1irfgWtd-sNC7wxTw9b-MadgFr6Dg_ASs/view?usp=share_link |
-| Clube do Livro dos Homens: O que acontece no clube do livro, fica no clube do livro | Lyssa Kay Adams | 320 | https://drive.google.com/file/d/1cOAjjdlUTR2Ly_h0oYjQF8CWE-Y7TIJV/view?usp=share_link |
-| Pra você que teve um dia ruim | Victor Fernandes | 192 | https://drive.google.com/file/d/1xW06be6iHwXJSGP43FFh4cB9iRPSx-ng/view?usp=share_link |
-| O Milagre da Manhã | Hal Elrod | 196 | https://drive.google.com/file/d/1MzKuDr8eFTr2w4M1DmCVGBFV9atvIVyH/view?usp=share_link |
+| Pare de se Sabotar e Dê a Volta Por Cima:Como se livrar dos comportamentos que atrapalham sua vida | Flip Flippen | 224 | [Download](https://drive.google.com/file/d/1irfgWtd-sNC7wxTw9b-MadgFr6Dg_ASs/view?usp=share_link) |
+| Clube do Livro dos Homens: O que acontece no clube do livro, fica no clube do livro | Lyssa Kay Adams | 320 | [Download](https://drive.google.com/file/d/1cOAjjdlUTR2Ly_h0oYjQF8CWE-Y7TIJV/view?usp=share_link) |
+| Pra você que teve um dia ruim | Victor Fernandes | 192 | [Download](https://drive.google.com/file/d/1xW06be6iHwXJSGP43FFh4cB9iRPSx-ng/view?usp=share_link) |
+| O Milagre da Manhã | Hal Elrod | 196 | [Download](https://drive.google.com/file/d/1MzKuDr8eFTr2w4M1DmCVGBFV9atvIVyH/view?usp=share_link) |
 | |
