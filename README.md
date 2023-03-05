@@ -42,3 +42,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Uma Segunda Chance: Reminders of Him | Colleen Hoover | 368 | [Downlad](https://drive.google.com/file/d/1xksei7gsnJJFUyyLmjgVuwPrhKcSZi1S/view?usp=share_link) |
 | Tudo o que eu sei sobre o amor | Dolly Alderton | 384 | [Download](https://drive.google.com/file/d/1QWaPgAAv0rw9u05sWRP852mOtkhfiWbS/view?usp=share_link) |
 | O jeito Harvard de ser feliz: o curso mais concorrido de uma das melhores universidades do mundo | Shawn Achor | 216 |[Download](https://drive.google.com/file/d/17fPQrNByp0E-0zBYwLubg7kDMwxC4zsx/view?usp=share_link) |
+| Comece pelo porquê: Como grandes líderes inspiram pessoas e equipes a agir | Simon Sinek | 256 | [Download](https://drive.google.com/file/d/1BbiQ2_bcSP_cD8tJDXfhRgzFBehq-1nC/view?usp=share_link) |
