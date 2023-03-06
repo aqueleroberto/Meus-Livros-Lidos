@@ -43,3 +43,7 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Tudo o que eu sei sobre o amor | Dolly Alderton | 384 | [Download](https://drive.google.com/file/d/1QWaPgAAv0rw9u05sWRP852mOtkhfiWbS/view?usp=share_link) |
 | O jeito Harvard de ser feliz: o curso mais concorrido de uma das melhores universidades do mundo | Shawn Achor | 216 |[Download](https://drive.google.com/file/d/17fPQrNByp0E-0zBYwLubg7kDMwxC4zsx/view?usp=share_link) |
 | Comece pelo porquê: Como grandes líderes inspiram pessoas e equipes a agir | Simon Sinek | 256 | [Download](https://drive.google.com/file/d/1BbiQ2_bcSP_cD8tJDXfhRgzFBehq-1nC/view?usp=share_link) |
+| Quem pensa enriquece: O legado | Napoleon Hill | 364 | [Download](https://drive.google.com/file/d/15cZUfMAOgshtAWvWpZeTgXgy5y3r_UiQ/view?usp=share_link) |
+| Gente que Convence | Eduardo Ferraz | 240 | [Download](https://drive.google.com/file/d/1O70fA3JsIwooH6ULIFOY3ncm6u3RPTuy/view?usp=share_link) |
+| Rápido e devagar: Duas formas de pensar | Daniel Kahneman | 608 | [Download](https://drive.google.com/file/d/1Kx4UNh875J8KMRFngZ0wgX2FgdJV5_IF/view?usp=share_link) |
+| Os 7 Hábitos das Pessoas Altamente Eficazes: Lições poderosas para a transformação pessoal | Stephen Covey | 462 | [Download](https://drive.google.com/file/d/1NdaMhienKlb6XdtjarPgqVHrtm6yquiK/view?usp=share_link) |
