@@ -23,7 +23,7 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | As regras de ouro dos casais saudáveis | Augusto Cury | 192 | 01/02/2023 | 10/02/2023 |
 | O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
 | Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 | 28/02/2023 |
-| O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | ... |
+| O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | 10/03/2022 |
 
 ## Lista de Livros que Quero Ler
 | Título | Autor | Páginas | Download |
