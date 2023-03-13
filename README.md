@@ -1,5 +1,5 @@
 # Meus Livros Lidos
-Este repositório é um registro dos livros que li ao longo do tempo. Inclui informações básicas sobre cada livro, como título, autor e data de leitura. Também inclui algumas reflexões pessoais sobre a leitura e minha experiência com cada livro.
+Este repositório é um registro dos livros que li ao longo do tempo. Inclui informações básicas sobre cada livro, como título, autor e data de leitura.
 ## Lista de Livros Lidos em 2022
 | Título | Autor | Páginas | Data de início | Data de fim |
 | :---: | :---: | :---: | :---: | :---: |
@@ -48,3 +48,4 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | Rápido e devagar: Duas formas de pensar | Daniel Kahneman | 608 | [Download](https://drive.google.com/file/d/1Kx4UNh875J8KMRFngZ0wgX2FgdJV5_IF/view?usp=share_link) |
 | Os 7 Hábitos das Pessoas Altamente Eficazes: Lições poderosas para a transformação pessoal | Stephen Covey | 462 | [Download](https://drive.google.com/file/d/1NdaMhienKlb6XdtjarPgqVHrtm6yquiK/view?usp=share_link) |
 | A gente mira no amor e acerta na solidão | Ana Suy | 160 | [Download](https://drive.google.com/file/d/1mjY5Zu-yb6QgwfRmSs9nhrkNMt_B6dzL/view?usp=share_link) |
+| Fixe o Conhecimento: A Ciência da Aprendizagem Bem-Sucedida | Peter C. Brown... | 256 | [Download](https://drive.google.com/file/d/1d_sgYsoocfec7XFR8HFb8WqBMmYAnZmG/view?usp=share_link) |
