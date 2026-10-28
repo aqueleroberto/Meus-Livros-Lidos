@@ -17,35 +17,22 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 ## Lista de Livros Lidos em 2023
 | Quantidade | Título | Autor | Páginas | Data de início | Data de fim |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Models: Attract Women Through Honesty | Mark Manson | 296 | 01/01/2023 | 10/01/2023 |
-| 2 | Os Quatro Compromissos: O livro da filosofia Tolteca | Don Miguel Ruiz | 110 | 11/01/2023 | 20/01/2023 |
-| 3 | O Alquimista | Paulo Coelho | 176 | 21/01/2023 | 31/01/2023 |
-| 4 | As regras de ouro dos casais saudáveis | Augusto Cury | 192 | 01/02/2023 | 10/02/2023 |
-| 5 | O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
-| 6 | Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 | 28/02/2023 |
-| 8 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | 10/03/2022 |
+| 01 | Models: Attract Women Through Honesty | Mark Manson | 296 | 01/01/2023 | 10/01/2023 |
+| 02 | Os Quatro Compromissos: O livro da filosofia Tolteca | Don Miguel Ruiz | 110 | 11/01/2023 | 20/01/2023 |
+| 03 | O Alquimista | Paulo Coelho | 176 | 21/01/2023 | 31/01/2023 |
+| 04 | As regras de ouro dos casais saudáveis | Augusto Cury | 192 | 01/02/2023 | 10/02/2023 |
+| 05 | O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
+| 06 | Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 | 28/02/2023 |
+| 08 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | 10/03/2022 |
 
-## Lista de Livros que Quero Ler
-| Título | Autor | Páginas | Download |
-| :---: | :---: | :---: | :---: |
-| Arnold Schwarzenegger: A Inacreditável História da Minha Vida| Arnold Schwarzenegger | 518 | [Download](https://drive.google.com/file/d/1kRhge1knj5cnpHWWgVBrvoPX2l3DuZ15/view?usp=share_link) |
-| Pai Rico Pai Pobre: Os que os ricos ensinam a seus filhos sobre sobre dinheiro | Robert T. Kiyosaki | 332 | [Download](https://drive.google.com/file/d/1VT_fJLKa_e_s-2K7lGrjdlnzsqT-_zUR/view?usp=share_link) |
-| O homem mais rico da Babilônia | George S. Clason | 176 | [Download](https://drive.google.com/file/d/1GfJGnfkC81x0GDP4EMrBKS8AebSrYmZw/view?usp=share_link) |
-| Os Segredos Da Mente Milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas | T. Harv Eker | 176 | [Download](https://drive.google.com/file/d/1g7XKrsgc72cen6du7ynmf_WVkDqwpfU6/view?usp=share_link) |
-| Mais Esperto Que O Diabo: O Mistério Revelado Da Liberdade E Do Sucesso | Napoleon Hill | 208 | [Download](https://drive.google.com/file/d/199PqOf6e6iZ8ycgX9BY9MaelqRgzMefR/view?usp=share_link) |
-| Pare de se Sabotar e Dê a Volta Por Cima: Como se livrar dos comportamentos que atrapalham sua vida | Flip Flippen | 224 | [Download](https://drive.google.com/file/d/1irfgWtd-sNC7wxTw9b-MadgFr6Dg_ASs/view?usp=share_link) |
-| Clube do Livro dos Homens: O que acontece no clube do livro, fica no clube do livro | Lyssa Kay Adams | 320 | [Download](https://drive.google.com/file/d/1cOAjjdlUTR2Ly_h0oYjQF8CWE-Y7TIJV/view?usp=share_link) |
-| Pra você que teve um dia ruim | Victor Fernandes | 192 | [Download](https://drive.google.com/file/d/1xW06be6iHwXJSGP43FFh4cB9iRPSx-ng/view?usp=share_link) |
-| O Milagre da Manhã | Hal Elrod | 196 | [Download](https://drive.google.com/file/d/1MzKuDr8eFTr2w4M1DmCVGBFV9atvIVyH/view?usp=share_link) |
-| Hábitos Atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus | James Clear | 320 | [Download](https://drive.google.com/file/d/12PIiHrB8IobQD3IYkxXTNyf_2PInWu97/view?usp=share_link) |
-| As 48 leis do poder | Robert Greene | 554 | [Download](https://drive.google.com/file/d/1My9MmIX4usw9cz5DMcDJuCJQRbQL-4cW/view?usp=share_link) |
-| Uma Segunda Chance: Reminders of Him | Colleen Hoover | 368 | [Download](https://drive.google.com/file/d/1xksei7gsnJJFUyyLmjgVuwPrhKcSZi1S/view?usp=share_link) |
-| Tudo o que eu sei sobre o amor | Dolly Alderton | 384 | [Download](https://drive.google.com/file/d/1QWaPgAAv0rw9u05sWRP852mOtkhfiWbS/view?usp=share_link) |
-| O jeito Harvard de ser feliz: o curso mais concorrido de uma das melhores universidades do mundo | Shawn Achor | 216 |[Download](https://drive.google.com/file/d/17fPQrNByp0E-0zBYwLubg7kDMwxC4zsx/view?usp=share_link) |
-| Comece pelo porquê: Como grandes líderes inspiram pessoas e equipes a agir | Simon Sinek | 256 | [Download](https://drive.google.com/file/d/1BbiQ2_bcSP_cD8tJDXfhRgzFBehq-1nC/view?usp=share_link) |
-| Quem pensa enriquece: O legado | Napoleon Hill | 364 | [Download](https://drive.google.com/file/d/15cZUfMAOgshtAWvWpZeTgXgy5y3r_UiQ/view?usp=share_link) |
-| Gente que Convence | Eduardo Ferraz | 240 | [Download](https://drive.google.com/file/d/1O70fA3JsIwooH6ULIFOY3ncm6u3RPTuy/view?usp=share_link) |
-| Rápido e devagar: Duas formas de pensar | Daniel Kahneman | 608 | [Download](https://drive.google.com/file/d/1Kx4UNh875J8KMRFngZ0wgX2FgdJV5_IF/view?usp=share_link) |
-| Os 7 Hábitos das Pessoas Altamente Eficazes: Lições poderosas para a transformação pessoal | Stephen Covey | 462 | [Download](https://drive.google.com/file/d/1NdaMhienKlb6XdtjarPgqVHrtm6yquiK/view?usp=share_link) |
-| A gente mira no amor e acerta na solidão | Ana Suy | 160 | [Download](https://drive.google.com/file/d/1mjY5Zu-yb6QgwfRmSs9nhrkNMt_B6dzL/view?usp=share_link) |
-| Fixe o Conhecimento: A Ciência da Aprendizagem Bem-Sucedida | Peter C. Brown... | 256 | [Download](https://drive.google.com/file/d/1d_sgYsoocfec7XFR8HFb8WqBMmYAnZmG/view?usp=share_link) |
+## Lista de Livros Lidos em 2024
+| Quantidade | Título | Autor | Páginas | Data de início | Data de fim |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 01 | O Código dos Homens: As 25 verdades que não te contaram | Fabricio Castro | 102 | 01/01/2024 | 15/01/2024 |
+| 02 | O Alquimista | Paulo Coelho | 176 | 16/01/2024 | 31/01/2024 |
+| 03 | O ato criativo: Uma forma de ser | Rick Rubin | 288 | 01/02/2024 | 15/02/2024 |
+| 04 | Diário estoico: 366 lições sobre sabedoria, perseverança e a arte de viver | Ryan Holiday | 496 | 16/02/2024 | 28/02/2024 |
+| 05 | A Vida dos Estoicos: A Arte de Viver, de Zenão a Marco Aurélio | Ryan Holiday | 400 | 01/03/2024 | 15/03/2024 |
+| 06 | Verity | Colleen Hoover | 320 | 16/03/2024 | 31/03/2024 |
+| 07 | A única coisa: A verdade surpreendentemente simples por trás de resultados extraordinários | Gary Keller | 208 | 01/04/2024 | 15/04/2024 |
+| 08 | O ego é seu inimigo | Ryan Holiday | 272 | 16/04/2024 | 30/04/2024 |
