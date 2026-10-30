@@ -23,7 +23,11 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | 04 | As regras de ouro dos casais saudáveis | Augusto Cury | 192 | 01/02/2023 | 10/02/2023 |
 | 05 | O milagre da manhã para transformar seu relacionamento | Paul Martino, Stacey Martino, Hal Elrod | 322 | 11/02/2023 | 20/02/2023 |
 | 06 | Arrume a Sua Cama: Pequenas Atitudes Que Podem Mudar A Sua Vida... E Talvez O Mundo | William H. Mcraven | 128 | 21/02/2023 | 28/02/2023 |
-| 08 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | 10/03/2022 |
+| 08 | O Poder do Agora | Eckhart Tolle | 224 | 01/03/2023 | 10/03/2023 |
+| 09 | Hábitos Atômicos | James Clear | 320 | 11/03/2023 | 20/03/2023 |
+| 10 | Clube do Livro dos Homens (Clube do Livro dos Homens #1) | Lyssa Kay Adams | 320 | 11/03/2023 | 20/03/2023 |
+| 11 | O homem mais rico da Babilônia | George S. Clason | 176 | 01/04/2023 | 10/04/2023 |
+| 12 | A gente mira no amor e acerta na solidão | Ana Suy | 160 | 11/04/2023 | 20/04/2023 |
 
 ## Lista de Livros Lidos em 2024
 | Quantidade | Título | Autor | Páginas | Data de início | Data de fim |
