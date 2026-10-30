@@ -36,3 +36,7 @@ Este repositório é um registro dos livros que li ao longo do tempo. Inclui inf
 | 06 | Verity | Colleen Hoover | 320 | 16/03/2024 | 31/03/2024 |
 | 07 | A única coisa: A verdade surpreendentemente simples por trás de resultados extraordinários | Gary Keller | 208 | 01/04/2024 | 15/04/2024 |
 | 08 | O ego é seu inimigo | Ryan Holiday | 272 | 16/04/2024 | 30/04/2024 |
+| 09 | Harry Potter e a Pedra Filosofal (Harry Potter #1) | J.K. Rowling | 208 | 01/05/2024 | 15/05/2024 |
+| 10 | Harry Potter e a Câmara Secreta (Harry Potter #2) | J.K. Rowling | 224 | 16/05/2024 | 31/05/2024 |
+| 11 | Harry Potter e o Prisioneiro de Azkaban (Harry Potter #3)) | J.K. Rowling | 288 | 01/06/2024 | 15/06/2024 |
+| 12 | Harry Potter e o Cálice de Fogo (Harry Potter #4) | J.K. Rowling | 480 | 16/06/2024 | 30/06/2024 |
